@@ -1,6 +1,6 @@
 
 <div style="font-family: Arial, sans-serif; color: #333;">
-<h2 style="font-size: 24px; color: #1F2937;">Hello everyone </h2>
+
 
 <div style="margin-bottom: 20px;">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ifeelikeabit.ifeelikeabit&" alt="Visitor Badge" style="border-radius: 8px;" />
