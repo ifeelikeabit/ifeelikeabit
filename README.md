@@ -6,11 +6,17 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ifeelikeabit.ifeelikeabit&" alt="Visitor Badge" style="border-radius: 8px;" />
 </div>
 <section style="margin-bottom: 20px;">
+<h3 style="font-size: 20px; color: #1F2937;">My Setup</h3>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Hyprland_logo.png" alt="OS Logo" style="border-radius: 8px;"/>
+  <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux logo" height="40" style="border-radius: 5px;" />
+<img width="12">
+</section>
+<section style="margin-bottom: 20px;">
 <h3 style="font-size: 20px; color: #1F2937;">Technologies</h3>
 <div align="left" style="display: flex; flex-wrap: wrap;">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux logo" height="40" style="border-radius: 5px;" />
-<img width="12">
+
 
 <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus logo" height="40" style="border-radius: 5px;" />
 <img width="12">
