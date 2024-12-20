@@ -6,6 +6,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ifeelikeabit.ifeelikeabit&" alt="Visitor Badge" style="border-radius: 8px;" />
 </div>
 <section style="margin-bottom: 20px;">
+
 <h3 style="font-size: 20px; color: #1F2937;">My Setup</h3>
   <img src="https://avatars.githubusercontent.com/u/107882187?s=48&v=4" alt="OS Logo" style="border-radius: 8px;"/>
   <img width="12">
@@ -44,6 +45,11 @@
 
 </div>
 </section>
+
+
+
+<section style="margin-bottom: 20px;">
+
 <section style="margin-bottom: 20px;">
 <h3 style="font-size: 20px; color: #1F2937;">Social Media</h3>
 <div style="display: flex; flex-wrap: wrap;">
