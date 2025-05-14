@@ -17,7 +17,8 @@
 <h3 style="font-size: 20px; color: #1F2937;">Technologies</h3>
 <div align="left" style="display: flex; flex-wrap: wrap;">
 
-
+<img src="https://skillicons.dev/icons?i=c" alt="c logo" height="40" style="border-radius: 5px;" />
+<img width="12">
 
 <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus logo" height="40" style="border-radius: 5px;" />
 <img width="12">
