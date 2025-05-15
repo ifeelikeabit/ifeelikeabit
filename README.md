@@ -59,7 +59,7 @@
 <a href="aktasesat80@gmail.com" target="_blank" style="margin-right: 15px;">
 <img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/gmail/default.svg" alt="gmail logo" height="40" width="40" style="border-radius: 5px;" /></a><img width="12"></div>
 </section>
-
+<br>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ifeelikeabit&layout=compact&theme=dracula"/>
 
 
